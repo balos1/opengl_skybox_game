@@ -1,0 +1,14 @@
+﻿--- TinyObjLoader ---
+https://github.com/syoyo/tinyobjloader
+
+--- ShaderProgram ---
+http://r3dux.org/2015/01/a-simple-c-opengl-shader-loader-improved/
+
+--- hexsphere.obj (used for energizer shape) ---
+Hex-sphere by sirkitree is licensed under CC Attribution
+
+--- sci-fi-hallway.obj ---
+Sci-fi hallway by Jacob Welander is licensed under CC Attribution
+
+--- Misc. ---
+Dr. Daniel Cliburn, Professor at Univeristy of the Pacific
